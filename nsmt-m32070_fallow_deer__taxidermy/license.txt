@@ -1,0 +1,11 @@
+Model Information:
+* title:	NSMT-M32070_Fallow Deer_ダマジカ_Taxidermy
+* source:	https://sketchfab.com/3d-models/nsmt-m32070-fallow-deer--taxidermy-5c7cb0e415b1430fa4f5afcfba58db7e
+* author:	Kent MORI @rojohaku (https://sketchfab.com/Memento)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NSMT-M32070_Fallow Deer_ダマジカ_Taxidermy" (https://sketchfab.com/3d-models/nsmt-m32070-fallow-deer--taxidermy-5c7cb0e415b1430fa4f5afcfba58db7e) by Kent MORI @rojohaku (https://sketchfab.com/Memento) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

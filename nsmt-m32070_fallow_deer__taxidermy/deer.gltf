@@ -1,0 +1,489 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4710,
+      "max": [
+        625.9974365234375,
+        268.5696105957031,
+        506.39111328125
+      ],
+      "min": [
+        -869.9982299804688,
+        -323.93890380859375,
+        -1192.046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56520,
+      "componentType": 5126,
+      "count": 4710,
+      "max": [
+        0.999287486076355,
+        0.999983549118042,
+        0.9997354745864868
+      ],
+      "min": [
+        -0.9986491203308105,
+        -0.9998956918716431,
+        -0.9999959468841553
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4710,
+      "max": [
+        0.9981807470321655,
+        0.9998112916946411,
+        0.9999828338623047,
+        1.0
+      ],
+      "min": [
+        -0.999945878982544,
+        -0.999917209148407,
+        -0.9999663233757019,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4710,
+      "max": [
+        0.9999030232429504,
+        0.99406898021698
+      ],
+      "min": [
+        7.000000186963007e-05,
+        9.500000305706635e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22500,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 113040,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.9510578513145447,
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        -0.9510578513145447,
+        -1.0,
+        -0.9999999403953552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 113796,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.9510607719421387,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9510607719421387,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37680,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        1.0,
+        0.47238200902938843
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 90000,
+      "componentType": 5125,
+      "count": 240,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 114552,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.9510578513145447,
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        -0.9510578513145447,
+        -1.0,
+        -0.9999999403953552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 115308,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.9510607719421387,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9510607719421387,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 38184,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        1.0,
+        0.47238200902938843
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 90960,
+      "componentType": 5125,
+      "count": 240,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Kent MORI @rojohaku (https://sketchfab.com/Memento)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/nsmt-m32070-fallow-deer--taxidermy-5c7cb0e415b1430fa4f5afcfba58db7e",
+      "title": "NSMT-M32070_Fallow Deer_ダマジカ_Taxidermy"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 91920,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38688,
+      "byteOffset": 91920,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116064,
+      "byteOffset": 130608,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 75360,
+      "byteOffset": 246672,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 322032,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/M32070_FallowDeer_forSK_02_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/M32070_FallowDeer_forSK_02_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "M32070_FallowDeer_forSK_02",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Eye_Material_01",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.11723333880548918
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446154715841e-19,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        2.220446154715841e-19,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.685873969314855e-07,
+        0.9999999999999858,
+        0.0,
+        0.0,
+        -0.9999999999999858,
+        -1.685873969314855e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "M32070_FallowDeer_forSK_02_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        20.0,
+        0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        -3.37174793862971e-06,
+        -19.999999999999716,
+        0.0,
+        0.0,
+        19.999999999999716,
+        -3.37174793862971e-06,
+        0.0,
+        -649.3110961914063,
+        159.86654663085938,
+        -637.1376953125,
+        1.0
+      ],
+      "name": "Icosphere_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        20.0,
+        0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        -3.37174793862971e-06,
+        -19.999999999999716,
+        0.0,
+        0.0,
+        19.999999999999716,
+        -3.37174793862971e-06,
+        0.0,
+        -738.2484741210938,
+        91.89846801757813,
+        -635.965087890625,
+        1.0
+      ],
+      "name": "Icosphere.001_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_8"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
