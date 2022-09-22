@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Trees
+* source:	https://sketchfab.com/3d-models/small-trees-18445272ace448ceb1429a96f5ecc31b
+* author:	BazukaliKartal (https://sketchfab.com/BazukaliKartal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Trees" (https://sketchfab.com/3d-models/small-trees-18445272ace448ceb1429a96f5ecc31b) by BazukaliKartal (https://sketchfab.com/BazukaliKartal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
