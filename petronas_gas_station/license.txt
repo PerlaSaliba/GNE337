@@ -1,0 +1,11 @@
+Model Information:
+* title:	Petronas Gas Station
+* source:	https://sketchfab.com/3d-models/petronas-gas-station-d5e4789fb926492993b277c1b50e13fd
+* author:	imin96 (https://sketchfab.com/imin96)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Petronas Gas Station" (https://sketchfab.com/3d-models/petronas-gas-station-d5e4789fb926492993b277c1b50e13fd) by imin96 (https://sketchfab.com/imin96) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
