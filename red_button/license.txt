@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Button
+* source:	https://sketchfab.com/3d-models/red-button-0bcbe949e6714aac9a196998200f7007
+* author:	forest (https://sketchfab.com/plutovr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Button" (https://sketchfab.com/3d-models/red-button-0bcbe949e6714aac9a196998200f7007) by forest (https://sketchfab.com/plutovr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
