@@ -1,0 +1,11 @@
+Model Information:
+* title:	Don't Push Button
+* source:	https://sketchfab.com/3d-models/dont-push-button-8d369bf078da4baea2abe89414accb55
+* author:	ItzJustSamu (https://sketchfab.com/itzjustsamuel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Don't Push Button" (https://sketchfab.com/3d-models/dont-push-button-8d369bf078da4baea2abe89414accb55) by ItzJustSamu (https://sketchfab.com/itzjustsamuel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
