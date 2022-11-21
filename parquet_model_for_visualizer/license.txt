@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parquet model for visualizer
+* source:	https://sketchfab.com/3d-models/parquet-model-for-visualizer-22b14fe525354aa4afcf2ccc7eb3c25e
+* author:	Tony (https://sketchfab.com/TonySv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parquet model for visualizer" (https://sketchfab.com/3d-models/parquet-model-for-visualizer-22b14fe525354aa4afcf2ccc7eb3c25e) by Tony (https://sketchfab.com/TonySv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
