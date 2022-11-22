@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aston Martin DB4 1961
+* source:	https://sketchfab.com/3d-models/aston-martin-db4-1961-0079cdab2e4542ca805d8922892ab9c6
+* author:	Kristina_de_Vries (https://sketchfab.com/Kristina_de_Vries)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aston Martin DB4 1961" (https://sketchfab.com/3d-models/aston-martin-db4-1961-0079cdab2e4542ca805d8922892ab9c6) by Kristina_de_Vries (https://sketchfab.com/Kristina_de_Vries) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
