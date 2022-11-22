@@ -1,0 +1,11 @@
+Model Information:
+* title:	M.I.T. Mechanical Engineering hallway display
+* source:	https://sketchfab.com/3d-models/mit-mechanical-engineering-hallway-display-31cbdb1d6cf543daa9fbc3bfc2301366
+* author:	jmill (https://sketchfab.com/jmill)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M.I.T. Mechanical Engineering hallway display" (https://sketchfab.com/3d-models/mit-mechanical-engineering-hallway-display-31cbdb1d6cf543daa9fbc3bfc2301366) by jmill (https://sketchfab.com/jmill) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
