@@ -1,0 +1,11 @@
+Model Information:
+* title:	Info Stand
+* source:	https://sketchfab.com/3d-models/info-stand-f63e02c3c60641ba8a67f96419b8e90e
+* author:	dayoung.ko (https://sketchfab.com/dayoung.ko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Info Stand" (https://sketchfab.com/3d-models/info-stand-f63e02c3c60641ba8a67f96419b8e90e) by dayoung.ko (https://sketchfab.com/dayoung.ko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
